@@ -119,10 +119,10 @@ Use responsibly.
 
 ## 👨‍💻 Built By
 
-Abu Sinan
-Cybersecurity & Automation Expert
-🔗 Upwork Profile
-🔗 LinkedIn Profile
+**Abu Sinan**  
+Cybersecurity & Automation Expert  
+🔗 [Upwork Profile](https://www.upwork.com/freelancers/abusinan)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/abusinan)
 
 ---
 
