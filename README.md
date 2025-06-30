@@ -2,7 +2,7 @@
 
 **A lightweight Python security tool** that monitors your Linux SSH logs (`/var/log/auth.log`) and instantly sends alerts to your Telegram bot when suspicious login attempts are detected — such as brute-force attacks or repeated failed passwords.
 
-![SSH Log Monitor + Telegram Alerts](assets/thumbnail.png)
+![SSH Log Monitor + Telegram Alerts](https://github.com/AbuSinann/ssh_log_monitor/blob/main/thumbnail.png)
 
 ---
 
