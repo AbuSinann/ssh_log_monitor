@@ -1,4 +1,4 @@
-![SSH Log Monitor + Telegram Alerts](https://github.com/AbuSinann/ssh_log_monitor/blob/main/thumbnail.png)
+![SSH Log Monitor + Telegram Alerts](assets/thumbnail.png)
 
 # 🛡️ SSH Log Monitor + Telegram Alerts
 
