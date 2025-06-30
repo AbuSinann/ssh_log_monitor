@@ -44,7 +44,7 @@ ssh-log-monitor-telegram/
 
 ```bash
 git clone https://github.com/AbuSinann/ssh-log-monitor.git
-cd ssh-log-monitor-telegram
+cd ssh-log-monitor
 ```
 ### 📦 2. Install Requirements
 
