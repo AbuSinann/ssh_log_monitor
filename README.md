@@ -30,7 +30,7 @@ SSH brute force attacks are one of the most common intrusion methods on public L
 
 ssh-log-monitor-telegram/
  ├── monitor.py           # Main script
- ├── config.json          # Telegram bot token + chat ID (template)
+ ├── config.json          # Telegram bot token + chat ID
  ├── requirements.txt     # Python dependencies
  ├── assets/
  │   └── thumbnail.png    # Project banner image
