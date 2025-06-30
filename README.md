@@ -27,5 +27,6 @@ SSH brute force attacks are one of the most common intrusion methods on public L
 ---
 
 ## 📂 Project Structure
-
+```
 ssh-log-monitor-telegram/ ├── monitor.py           # Main script ├── config.json          # Telegram bot token + chat ID (template) ├── requirements.txt     # Python dependencies ├── assets/ │   └── thumbnail.png    # Project banner image └── README.md            # Documentation
+```
