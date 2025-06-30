@@ -130,15 +130,15 @@ Cybersecurity & Automation Expert
 
 This project showcases skills in:
 
-Python scripting for system log analysis
+- Python scripting for system log analysis
 
-Regex and pattern matching
+- Regex and pattern matching
 
-Working with the Telegram Bot API
+- Working with the Telegram Bot API
 
-Real-time alert automation
+- Real-time alert automation
 
-Cronjob setup for continuous monitoring
+- Cronjob setup for continuous monitoring
 
 ---
 
