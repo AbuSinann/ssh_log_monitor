@@ -56,9 +56,9 @@ pip install -r requirements.txt
 
 Create a Telegram bot via @BotFather and get your:
 
-Bot token
+**-Bot token**
 
-Chat ID (via @userinfobot or API)
+**-Chat ID (via @userinfobot or API)**
 
 
 Then create `config.json`:
