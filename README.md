@@ -120,7 +120,7 @@ Use responsibly.
 ## 👨‍💻 Built By
 
 **Abu Sinan**  
-Cybersecurity & Automation Expert  
+Cybersecurity & Automation Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusinan)
  [![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork&logoColor=black)](https://www.upwork.com/freelancers/abusinan)
