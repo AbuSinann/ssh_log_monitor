@@ -121,8 +121,8 @@ Use responsibly.
 
 **Abu Sinan**  
 Cybersecurity & Automation Expert  
-🔗 [Upwork Profile](https://www.upwork.com/freelancers/abusinan)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/abusinan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusinan)
+ [![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork&logoColor=black)](https://www.upwork.com/freelancers/abusinan)
 
 ---
 
